@@ -8,12 +8,6 @@ I'm a hybrid professional with over 25 years of experience in technology, busine
 
 ---
 
-## Connect with Me
-- 📧 [cleiton_costa@yahoo.com.br](mailto:cleiton_costa@yahoo.com.br)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/cleitoncosta)
-
----
-
 ## Expertise
 - **Project & Program Management**: PMI, Agile (Scrum, Kanban, SAFe)
 - **Leadership**: Team management, strategic partnerships, digital transformation
@@ -50,6 +44,12 @@ I'm a hybrid professional with over 25 years of experience in technology, busine
 
 ---
 
+## Connect with Me
+- 📧 [cleiton_costa@yahoo.com.br](mailto:cleiton_costa@yahoo.com.br)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/cleitoncosta)
+
+---
+
 ## Stats
 
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cleitoncosta&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cleitoncosta&theme=radical) |
@@ -57,7 +57,5 @@ I'm a hybrid professional with over 25 years of experience in technology, busine
 | Total Contributions: 5,853 | Current Streak: 1 day |
 
 ---
-
 ## You are visitor number: ![Visitor Badge](https://img.shields.io/badge/visitor-{{visitor_count}}-yellow)
-
 ---

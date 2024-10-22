@@ -1,5 +1,4 @@
-# Cleiton Costa (@cleitoncosta)
-<a href="https://github.com/cleitoncosta" target="_blank">
+# Cleiton Costa (@cleitoncosta) <a href="https://github.com/cleitoncosta" target="_blank">
     <img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="20" height="20"/>
 </a>
 

@@ -57,3 +57,7 @@ I'm a hybrid professional with over 25 years of experience in technology, busine
 | Total Contributions: 5,853 | Current Streak: 1 day |
 
 ---
+
+## You are visitor number: ![Visitor Badge](https://img.shields.io/badge/visitor-{{visitor_count}}-yellow)
+
+---

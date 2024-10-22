@@ -1,4 +1,7 @@
 # Cleiton Costa (@cleitoncosta)
+<a href="https://github.com/cleitoncosta" target="_blank">
+    <img src="https://simpleicons.org/icons/github.svg" alt="GitHub" width="20" height="20"/>
+</a>
 
 ![Build Status](https://img.shields.io/github/actions/workflow/status/cleitoncosta/cleitoncosta/main.yml?branch=main)
 ![Coverage](https://img.shields.io/codecov/c/github/cleitoncosta/cleitoncosta)

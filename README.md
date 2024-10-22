@@ -50,10 +50,11 @@ I'm a hybrid professional with over 25 years of experience in technology, busine
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitoncosta&layout=compact&theme=radical)
 
 ---
+
 ## Featured Projects
 
 ### Pi-hole: Network-wide Ad Blocking
 Pi-hole is a project I deeply value due to its ability to enhance internet privacy and security by blocking ads and trackers across an entire network. Check out the repository for more details and how you can contribute!
 - [Pi-hole Repository](https://github.com/cleitoncostaa/pihole-adlists)
 
--
+---

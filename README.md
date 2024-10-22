@@ -34,3 +34,6 @@ I'm a hybrid professional with over 25 years of experience in technology, busine
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/cleitoncosta)
 - [Email](mailto:cleiton_costa@yahoo.com.br)
+
+![Project Manager](https://img.shields.io/badge/Project_Manager-Expert-green)
+![Agile Practitioner](https://img.shields.io/badge/Agile-Practitioner-blue)

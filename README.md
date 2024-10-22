@@ -11,7 +11,6 @@ I'm a hybrid professional with over 25 years of experience in technology, busine
 ![Agile Practitioner](https://img.shields.io/badge/Agile-Practitioner-blue)
 ![Digital Transformation](https://img.shields.io/badge/Digital_Transformation-Leader-purple)
 ![Business Agility](https://img.shields.io/badge/Business_Agility-Agile_Champion-blueviolet)
-![Innovation](https://img.shields.io/badge/Innovation-Creator-yellow)
 
 ## 💼 Expertise
 - **Project & Program Management**: PMI, Agile (Scrum, Kanban, SAFe)

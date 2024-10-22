@@ -44,8 +44,8 @@ I'm a hybrid professional with over 25 years of experience in technology, busine
 ---
 
 ## Connect with Me
-- 📧 [cleiton_costa@yahoo.com.br](mailto:cleiton_costa@yahoo.com.br)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/cleitoncosta)
+- 🌐 [cleiton_costa@yahoo.com.br](mailto:cleiton_costa@yahoo.com.br)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/cleitoncosta)
 
 ---
 

@@ -6,8 +6,8 @@ README.md
 I'm a hybrid professional with over 25 years of experience in technology, business strategy, and leadership across Brazilian and international markets. As an experienced project manager, I specialize in Project, Program, and Portfolio Management, with a strong focus on agile methodologies, business alignment, and productivity. I’m passionate about leveraging AI to drive growth, foster innovation, and optimize project outcomes.
 
 ![Project Manager](https://img.shields.io/badge/Project_Manager-Expert-green)
-![Program Manager](https://img.shields.io/badge/Program_Manager-Advanced-orange)
-![Engagement Manager](https://img.shields.io/badge/Engagement_Manager-Pro-blue)
+![Program Manager](https://img.shields.io/badge/Program_Manager-Expert-orange)
+![Engagement Manager](https://img.shields.io/badge/Engagement_Manager-Expert-blue)
 ![Agile Practitioner](https://img.shields.io/badge/Agile-Practitioner-blue)
 ![Digital Transformation](https://img.shields.io/badge/Digital_Transformation-Leader-purple)
 ![Business Agility](https://img.shields.io/badge/Business_Agility-Agile_Champion-blueviolet)

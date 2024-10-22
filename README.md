@@ -56,5 +56,10 @@ I'm a hybrid professional with over 25 years of experience in technology, busine
 | Total Contributions: 5,853 | Current Streak: 1 day |
 
 ---
+
+## Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitoncosta&layout=compact&theme=radical)
+
+---
 ## You are visitor number: ![Visitor Badge](https://img.shields.io/badge/visitor-{{visitor_count}}-yellow)
 ---

@@ -50,14 +50,6 @@ I'm a hybrid professional with over 25 years of experience in technology, busine
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cleitoncosta&layout=compact&theme=radical)
 
 ---
-
-## Stats
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cleitoncosta&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cleitoncosta&theme=radical) |
-|:--:|:--:|
-| Total Contributions: 5,853 | Current Streak: 1 day |
-
----
 ## Featured Projects
 
 ### Pi-hole: Network-wide Ad Blocking

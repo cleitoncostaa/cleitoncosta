@@ -8,14 +8,6 @@ I'm a hybrid professional with over 25 years of experience in technology, busine
 
 ---
 
-## Stats
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cleitoncosta&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cleitoncosta&theme=radical) |
-|:--:|:--:|
-| Total Contributions: 5,853 | Current Streak: 1 day |
-
----
-
 ## Connect with Me
 - 📧 [cleiton_costa@yahoo.com.br](mailto:cleiton_costa@yahoo.com.br)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/cleitoncosta)
@@ -56,3 +48,12 @@ I'm a hybrid professional with over 25 years of experience in technology, busine
 - Explore AI applications in business strategy and digital transformation.
 - Continue growing within the agile and strategic management communities.
 
+---
+
+## Stats
+
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cleitoncosta&show_icons=true&theme=radical) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cleitoncosta&theme=radical) |
+|:--:|:--:|
+| Total Contributions: 5,853 | Current Streak: 1 day |
+
+---

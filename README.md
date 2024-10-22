@@ -19,8 +19,6 @@ I'm a hybrid professional with over 25 years of experience in technology, busine
 ## Connect with Me
 - 📧 [cleiton_costa@yahoo.com.br](mailto:cleiton_costa@yahoo.com.br)
 - 🌐 [LinkedIn](https://www.linkedin.com/in/cleitoncosta)
-- 🐦 [Twitter](https://twitter.com/yourusername) <!-- Altere para seu username -->
-- ☕ [Buy me a coffee](https://www.buymeacoffee.com/yourusername) <!-- Altere para seu link -->
 
 ---
 

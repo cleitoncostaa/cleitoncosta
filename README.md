@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Cleiton Costa
+# Cleiton Costa
 
 ![Build Status](https://img.shields.io/github/actions/workflow/status/cleitoncosta/cleitoncosta/main.yml?branch=main)
 ![Coverage](https://img.shields.io/codecov/c/github/cleitoncosta/cleitoncosta)
@@ -6,19 +6,20 @@
 ## About Me
 I'm a hybrid professional with over 25 years of experience in technology, business strategy, and leadership across Brazilian and international markets. As an experienced project manager, I specialize in Project, Program, and Portfolio Management, with a strong focus on agile methodologies, business alignment, and productivity. I’m passionate about leveraging AI to drive growth, foster innovation, and optimize project outcomes.
 
-## 💼 Expertise
-- **Project & Program Management**: PMI, Agile (Scrum, Kanban, SAFe)
-- **Leadership**: Team management, strategic partnerships, digital transformation
-- **Tools**: Jira, Confluence, ServiceNOW, Notion, Trello
-- **AI & Automation**: AI-driven project management, automation scripts, data analysis
-- **Business Skills**: Strategic planning, business modeling, stakeholder management
-
+## Achievements
 ![Project Manager](https://img.shields.io/badge/Project_Manager-Expert-green)
 ![Program Manager](https://img.shields.io/badge/Program_Manager-Expert-orange)
 ![Engagement Manager](https://img.shields.io/badge/Engagement_Manager-Expert-blue)
 ![Agile Practitioner](https://img.shields.io/badge/Agile_Practitioner-Experienced-blue)
 ![Digital Transformation](https://img.shields.io/badge/Digital_Transformation-Leader-purple)
 ![Business Agility](https://img.shields.io/badge/Business_Agility-Agile_Champion-blueviolet)
+
+## 💼 Expertise
+- **Project & Program Management**: PMI, Agile (Scrum, Kanban, SAFe)
+- **Leadership**: Team management, strategic partnerships, digital transformation
+- **Tools**: Jira, Confluence, ServiceNOW, Notion, Trello
+- **AI & Automation**: AI-driven project management, automation scripts, data analysis
+- **Business Skills**: Strategic planning, business modeling, stakeholder management
 
 ## 🚀 Key Projects & Achievements
 - **Vivo (Telefônica Brasil)**: Implemented drone inspections for infrastructure, cutting costs and improving safety. Led process automation projects using RPA, increasing productivity.
@@ -39,6 +40,11 @@ I'm a hybrid professional with over 25 years of experience in technology, busine
 - Explore AI applications in business strategy and digital transformation.
 - Continue growing within the agile and strategic management communities.
 
-## 📫 How to reach me
+## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/cleitoncosta)
 - [Email](mailto:cleiton_costa@yahoo.com.br)
+
+## Activities
+5,853 contributions in the last year
+
+[Activity overview](https://github.com/cleitoncosta)

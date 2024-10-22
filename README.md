@@ -56,6 +56,4 @@ I'm a hybrid professional with over 25 years of experience in technology, busine
 Pi-hole is a project I deeply value due to its ability to enhance internet privacy and security by blocking ads and trackers across an entire network. Check out the repository for more details and how you can contribute!
 - [Pi-hole Repository](https://github.com/cleitoncostaa/pihole-adlists)
 
----
-## You are visitor number: ![Visitor Badge](https://img.shields.io/badge/visitor-{{visitor_count}}-yellow)
----
+-

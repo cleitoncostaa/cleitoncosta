@@ -1,25 +1,24 @@
-README.md
-![Build Status](https://img.shields.io/github/actions/workflow/status/cleitoncosta/repo-name/main.yml?branch=main)
-![Coverage](https://img.shields.io/codecov/c/github/cleitoncosta/repo-name)
-
 # Hi there! 👋 I'm Cleiton Costa
+
+![Build Status](https://img.shields.io/github/actions/workflow/status/cleitoncosta/cleitoncosta/main.yml?branch=main)
+![Coverage](https://img.shields.io/codecov/c/github/cleitoncosta/cleitoncosta)
 
 ## About Me
 I'm a hybrid professional with over 25 years of experience in technology, business strategy, and leadership across Brazilian and international markets. As an experienced project manager, I specialize in Project, Program, and Portfolio Management, with a strong focus on agile methodologies, business alignment, and productivity. I’m passionate about leveraging AI to drive growth, foster innovation, and optimize project outcomes.
 
+## 💼 Expertise
+- **Project & Program Management**: PMI, Agile (Scrum, Kanban, SAFe)
+- **Leadership**: Team management, strategic partnerships, digital transformation
+- **Tools**: Jira, Confluence, ServiceNOW, Notion, Trello
+- **AI & Automation**: AI-driven project management, automation scripts, data analysis
+- **Business Skills**: Strategic planning, business modeling, stakeholder management
+
 ![Project Manager](https://img.shields.io/badge/Project_Manager-Expert-green)
 ![Program Manager](https://img.shields.io/badge/Program_Manager-Expert-orange)
 ![Engagement Manager](https://img.shields.io/badge/Engagement_Manager-Expert-blue)
-![Agile Practitioner](https://img.shields.io/badge/Agile-Practitioner-blue)
+![Agile Practitioner](https://img.shields.io/badge/Agile_Practitioner-Experienced-blue)
 ![Digital Transformation](https://img.shields.io/badge/Digital_Transformation-Leader-purple)
 ![Business Agility](https://img.shields.io/badge/Business_Agility-Agile_Champion-blueviolet)
-
-## 💼 Expertise
-- **Project & Program Management**: PMI, Agile (Scrum, Kanban, SAFe)
-- **Leadership**: Team management, strategic partnerships, and digital transformation
-- **Tools**: Jira, Confluence, ServiceNOW, Notion, Trello
-- **AI & Automation**: AI-driven project management, automation scripts, and data analysis
-- **Business Skills**: Strategic planning, business modeling, and stakeholder management
 
 ## 🚀 Key Projects & Achievements
 - **Vivo (Telefônica Brasil)**: Implemented drone inspections for infrastructure, cutting costs and improving safety. Led process automation projects using RPA, increasing productivity.
@@ -43,4 +42,3 @@ I'm a hybrid professional with over 25 years of experience in technology, busine
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/cleitoncosta)
 - [Email](mailto:cleiton_costa@yahoo.com.br)
-
